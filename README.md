@@ -80,8 +80,21 @@ Traffic Sign Detection System
 - Accuracy: 0.928
 
 ## ResNet
-- Compilation Time: 235 min
-- Accuracy: 0.953
+- Compilation Time: 175 min (10424 sec)
+- Accuracy: 0.952
+
+| Epoch | s    | s/step | Loss   | Accuracy | Validation Loss | Validation Accuracy |
+|-------|------|--------|--------|----------|-----------------|---------------------|
+| 1     | 1079 | 5      | 2.2902 | 0.3796   | 3.5454          |                     |
+| 2     | 1041 | 5      | 0.7119 | 0.7986   | 2.3891          |                     |
+| 3     | 1044 | 5      | 0.2963 | 0.9142   | 0.344           |                     |
+| 4     | 1037 | 5      | 0.4911 | 0.8725   | 0.4314          |                     |
+| 5     | 1021 | 5      | 0.1912 | 0.9512   | 14.8984         |                     |
+| 6     | 1014 | 5      | 0.4041 | 0.8902   | 1.4258          |                     |
+| 7     | 1048 | 5      | 0.1998 | 0.9596   | 0.1023          |                     |
+| 8     | 1057 | 5      | 0.0849 | 0.9838   | 0.0863          |                     |
+| 9     | 1047 | 5      | 0.1601 | 0.9686   | 0.4512          |                     |
+| 10    | 1036 | 5      | 0.2985 | 0.9369   | 0.9715          |                     |
 
 ## Next Step
 - This project aims to comparing the models between popular models and KoLNet to create better model.
