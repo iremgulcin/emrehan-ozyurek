@@ -8,16 +8,16 @@ Traffic Sign Detection System
 - [Objectives](#Objectives)
 - [SDG Relation](#SDG)
 	- [Sustainable Cities and Communities](#Sustainable)
-	- [Climate Action](#Climate Action)
+	- [Climate Action](#Climate)
 - [Dataset](#Dataset)
-	- [Feature Engineering](#Feature Engineering)
-	- [Exploratory Data Analytics](#Exploratory Data Analytics)
+	- [Feature Engineering](#Feature)
+	- [Exploratory Data Analytics](#Exploratory)
 - [Methodology](#Methodology)
 	- [Model](#Model)
-	- [Hyperparameter Tuning](#Hyperparameter Tuning)
+	- [Hyperparameter Tuning](#Hyperparameter)
 - [Outputs](#Outputs)
 - [Usage](#Usage)
-- [Next Steps](#Next Steps)
+- [Next Steps](#Next)
 
 ## Background
 
