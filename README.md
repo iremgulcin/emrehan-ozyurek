@@ -47,20 +47,4 @@ Traffic Sign Detection System
 - By enabling efficient navigation and adherence to traffic regulations, our system supports Climate Action objectives by potentially reducing traffic congestions and subsequently lowering vehicle emissions, contributing to a cleaner and greener environment.
 
 ## Datasets
-- [The German Traffic Sign Recognition Benchmark (GTSRB)](http://benchmark.ini.rub.de/2) _(label: easyfix)_ <br> is a widely used dataset for traffic sign recognition. It consists of more than 50,000 images of traffic signs, including speed limit signs, stop signs, and warning signs. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [The German Traffic Sign Recognition Benchmark (GTSRB)](http://benchmark.ini.rub.de/2)<br> is a widely used dataset for traffic sign recognition. It consists of more than 50,000 images of traffic signs, including speed limit signs, stop signs, and warning signs. 
