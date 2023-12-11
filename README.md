@@ -6,8 +6,8 @@ Traffic Sign Detection System
 
 - [Background](#Background)
 - [Objectives](#Objectives)
-- [SDG Relation](#SDG Relation)
-	- [Sustainable Cities and Communities](#Sustainable Cities and Communities)
+- [SDG Relation](#SDG)
+	- [Sustainable Cities and Communities](#Sustainable)
 	- [Climate Action](#Climate Action)
 - [Dataset](#Dataset)
 	- [Feature Engineering](#Feature Engineering)
