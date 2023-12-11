@@ -48,10 +48,41 @@ Traffic Sign Detection System
 
 ## Datasets
 - [The German Traffic Sign Recognition Benchmark (GTSRB)](http://benchmark.ini.rub.de/2)<br> is a widely used dataset for traffic sign recognition. It consists of more than 50,000 images of traffic signs, including speed limit signs, stop signs, and warning signs. 
-
 	- 42 Class
 	- 541 Images
 	- 23000 Images Total
+
+## Metadology
+- Models
+	- KoLNet
+	- EfficientNet
+	- Resnet
+
+## KoLNet
+- Compilation Time: 2 min
+- Accuracy: 0.983
+
+## EfficientNet
+- Compilation Time: 12 min
+- Accuracy: 0.928
+
+## ResNet
+- Compilation Time: 235 min
+- Accuracy: 0.953
+
+## Next Step
+- This project aims to comparing the models between popular models and KoLNet to create better model.
+- The next step is to detect traffic signs in video images or live images and warn the user.
+
+
+
+
+
+
+
+
+
+
 
 
 
