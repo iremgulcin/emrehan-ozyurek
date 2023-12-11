@@ -5,19 +5,19 @@ Traffic Sign Detection System
 ## Table of Contents:
 
 - [Background](#background)
-- Objectives	
-- SDG Relation
-	- Sustainable Cities and Communities
-	- Climate Action
-- Dataset
-	- Feature Engineering
-	- Exploratory Data Analytics
-- Methodology
-	- Model
-	- Hyperparameter Tuning
-- Outputs
-- Usage
-- Next Steps
+- [Objectives](#Objectives)
+- SDG Relation](#)
+	- Sustainable Cities and Communities](#)
+	- Climate Action](#)
+- Dataset](#)
+	- Feature Engineering](#)
+	- Exploratory Data Analytics](#)
+- Methodology](#)
+	- Model](#)
+	- Hyperparameter Tuning](#)
+- Outputs](#)
+- Usage](#)
+- Next Steps](#)
 
 ## Background
 
