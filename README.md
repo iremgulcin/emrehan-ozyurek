@@ -4,7 +4,7 @@ Traffic Sign Detection System
 
 ## Table of Contents:
 
-- Background
+- [Background](#background)
 - Objectives	
 - SDG Relation
 	- Sustainable Cities and Communities
@@ -48,3 +48,15 @@ Traffic Sign Detection System
 
 ## Datasets
 - [The German Traffic Sign Recognition Benchmark (GTSRB)](http://benchmark.ini.rub.de/2)<br> is a widely used dataset for traffic sign recognition. It consists of more than 50,000 images of traffic signs, including speed limit signs, stop signs, and warning signs. 
+
+	- 42 Class
+	- 541 Images
+	- 23000 Images Total
+
+
+
+
+
+
+
+
